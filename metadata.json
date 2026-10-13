@@ -1,0 +1,6 @@
+{
+  "name": "The Complete Programming Knowledge Base",
+  "description": "Comprehensive programming textbook and structured learning platform covering Python, Streamlit, Backend (Flask, Django, FastAPI), Java, C, C++, and Cybersecurity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
